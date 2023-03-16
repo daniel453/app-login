@@ -1,0 +1,21 @@
+{
+    "name": "daniel/login",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "src/createApp.php",
+            "src/routes/Routes.php"
+        ],
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "daniel453",
+            "email": "daniel1946203@gmail.com"
+        }
+    ],
+    "require": {}
+}
